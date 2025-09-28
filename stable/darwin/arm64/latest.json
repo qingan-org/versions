@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium/releases/download/1.104.26450/VSCodium-darwin-arm64-1.104.26450.zip",
-  "name": "1.104.26450",
-  "version": "df23b135987b9b1449efdfb550fe90f38539b749",
-  "productVersion": "1.104.26450.0",
-  "hash": "b3be7c4ea82267f27812eca1755366896256704e",
-  "timestamp": "1758826845764",
-  "sha256hash": "a1bbe5fae57ebda1a2a0f51fdff294e06624316972db119f3b3650c6b1d82089"
+  "url": "https://github.com/qingan-org/qingan-releases/releases/download/1.103.26521/QingAn-darwin-arm64-1.103.26521.zip",
+  "name": "1.103.26521",
+  "version": "21ae38f28367871ff52f3b9b73f4f3424e8f0a07",
+  "productVersion": "1.103.26521.0",
+  "hash": "567fc4cc79d7f3dd1ec6fb962c19e04b00e4b6ec",
+  "timestamp": "1759052230718",
+  "sha256hash": "b82748b245f4fe442855315a2e4d4cd9f773882c8da4236ed057e8297ea18891"
 }
